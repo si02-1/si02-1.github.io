@@ -170,7 +170,7 @@ author:
 
   name             : "최유리"  name             : "최유리"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복한 컴퓨터교육 설계자"
+  bio              : 
   location         : "대한민국, 서울"
   email            : "21-20834@hafs.hs.kr"
   links:
