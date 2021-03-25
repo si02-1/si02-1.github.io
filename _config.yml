@@ -102,71 +102,71 @@ og_image                 : # Open Graph/Twitter default site image
 
 # For specifying social profiles
 
-81
+
 
 # - https://developers.google.com/structured-data/customize/social-profiles
 
-82
+
 
 social:
 
-83
+
 
   type                   : # Person or Organization (defaults to Person)
 
-84
+
 
   name                   : # If the user or organization name differs from the site's name
 
-85
+
 
   links: # An array of links to social media profiles
 
-86
 
 
 
-87
+
+
 
 # Analytics
 
-88
+
 
 analytics:
 
-89
+
 
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
 
-90
+
 
   google:
 
-91
+
 
     tracking_id          :
 
-92
+
 
     anonymize_ip         : # true, false (default)
 
-93
 
 
 
-94
 
 
 
-95
+
+
+
 
 # Site Author
 
-96
+
 
 author:
 
-97
+
 
   name             : "최유리"  name             : "최유리"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
