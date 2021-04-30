@@ -25,7 +25,7 @@ url                      : "https://si02-1.github.io" # the base hostname & prot
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "si02-1/si02-1.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -169,7 +169,7 @@ author:
 
 
   name             : "최유리"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png"
   bio              : 
   location         : "대한민국, 서울"
   email            : "21-20834@hafs.hs.kr"
