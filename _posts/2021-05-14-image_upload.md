@@ -6,7 +6,7 @@ layout: single
 IT 기술과 관련된 사진
 ---
 ### 전자기기
-![device][/assets/images/device.jpg]
+![device](/assets/images/device.jpg)
 여러가지 전자기기
 
 ---
