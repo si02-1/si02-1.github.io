@@ -48,7 +48,7 @@ toc_label: "페이지 주요 목차"
 ~~~
  
 ### 03. 이 달은 며칠까지 있을까?
-![months](/assets/images/month.jpg)
+![months](/assets/images/months.jpg)
 ~~~c
 #include <stdio.h>
  int main(void)
