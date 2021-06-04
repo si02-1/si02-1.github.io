@@ -28,10 +28,10 @@ toc_label: "페이지 주요 목차"
  }
  ~~~
  
- ### 02. 3개의 터널 통과
- ![tunnel](/assets/images/tunnel.jpg)
- ~~~c
- #include <stdio.h>
+### 02. 3개의 터널 통과
+![tunnel](/assets/images/tunnel.jpg)
+~~~c
+#include <stdio.h>
  int main(void)
  {
  int tunnel_1, tunnel_2, tunnel_3;
@@ -46,13 +46,13 @@ toc_label: "페이지 주요 목차"
  else
   printf("무사 통과");
  return 0;
- }
- ~~~
+}
+~~~
  
- ### 03. 이 달은 며칠까지 있을까?
- ![months](/assets/images/month.jpg)
- ~~~c
- #include <stdio.h>
+### 03. 이 달은 며칠까지 있을까?
+![months](/assets/images/month.jpg)
+~~~c
+#include <stdio.h>
  int main(void)
  {
  int year, month;
@@ -74,5 +74,5 @@ toc_label: "페이지 주요 목차"
  }
  printf("입니다.\n");
  return 0;
- }
- ~~~
+}
+~~~
